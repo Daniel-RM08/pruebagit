@@ -15,7 +15,7 @@ public class Pruebagit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Prueba Git");
+        System.out.println("Reprueba Git");
     }
     
 }
